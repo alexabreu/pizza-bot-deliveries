@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/pizza-bot-deliveries/static/css/main.9061d169.chunk.css"
   },
   {
-    "revision": "6bc6df2fdab02194733818c8162fc114",
+    "revision": "24eb366da9577b5c2570bd98669e46fc",
     "url": "/pizza-bot-deliveries/index.html"
   }
 ];
