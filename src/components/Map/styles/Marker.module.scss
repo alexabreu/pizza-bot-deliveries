@@ -1,0 +1,9 @@
+.marker {
+  position: absolute;
+  font-size: 2vw;
+  transition: all 200ms ease;
+  transform: translate(0vw, -2vw);
+  &.pizza {
+    transform: translate(-0.4vw, -2vw) rotate(70deg);
+  }
+}

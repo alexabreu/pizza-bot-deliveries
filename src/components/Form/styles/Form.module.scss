@@ -1,0 +1,40 @@
+.form {
+  display: flex;
+  justify-content: space-between;
+  font-size: 2em;
+  padding: 1em;
+  position: absolute;
+  width: 100%;
+  background: rgba(255, 110, 231, 0.75);
+  z-index: 1;
+  height: 100%;
+  align-items: center;
+  box-sizing: border-box;
+  * + * {
+    margin-left: 1em;
+  }
+  h1 {
+    font-family: 'Pacifico', cursive;
+    color: white;
+    width: 15%;
+  }
+  input {
+    padding: 1em;
+    font-size: 0.5em;
+    width: 15%;
+  }
+
+  input[type=text] {
+    border: 1px solid #ddd;
+    width: 70%;
+  }
+  input[type=submit] {
+    background: lightgreen;
+    color: white;
+    border: none;
+    cursor: pointer;
+    &:hover {
+      font-weight: bold;
+    }
+  }
+}

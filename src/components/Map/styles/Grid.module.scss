@@ -1,0 +1,19 @@
+.grid {
+  border: 1px solid lightgray;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  position: relative;
+  height: 100%;
+  .row {
+    display: flex;
+    & + .row {
+      border-top: 1px dashed #ddd;
+    }
+    .column {
+      & + .column {
+        border-left: 1px dashed #ddd;
+      }
+    }
+  }
+}
