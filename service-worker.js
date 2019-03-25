@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/pizza-bot/precache-manifest.16bd0bd108ba5b43f956b2bc0d1d7e0d.js"
+  "/pizza-bot-deliveries/precache-manifest.92c29fa7fa7e8fd232ce9d3bdda9fa0d.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/pizza-bot/index.html", {
+workbox.routing.registerNavigationRoute("/pizza-bot-deliveries/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

@@ -1,13 +1,13 @@
 {
-  "main.css": "/pizza-bot/static/css/main.9061d169.chunk.css",
-  "main.js": "/pizza-bot/static/js/main.a92eb907.chunk.js",
-  "main.js.map": "/pizza-bot/static/js/main.a92eb907.chunk.js.map",
-  "runtime~main.js": "/pizza-bot/static/js/runtime~main.a6fa4f19.js",
-  "runtime~main.js.map": "/pizza-bot/static/js/runtime~main.a6fa4f19.js.map",
-  "static/js/2.ca947b24.chunk.js": "/pizza-bot/static/js/2.ca947b24.chunk.js",
-  "static/js/2.ca947b24.chunk.js.map": "/pizza-bot/static/js/2.ca947b24.chunk.js.map",
-  "index.html": "/pizza-bot/index.html",
-  "precache-manifest.16bd0bd108ba5b43f956b2bc0d1d7e0d.js": "/pizza-bot/precache-manifest.16bd0bd108ba5b43f956b2bc0d1d7e0d.js",
-  "service-worker.js": "/pizza-bot/service-worker.js",
-  "static/css/main.9061d169.chunk.css.map": "/pizza-bot/static/css/main.9061d169.chunk.css.map"
+  "main.css": "/pizza-bot-deliveries/static/css/main.9061d169.chunk.css",
+  "main.js": "/pizza-bot-deliveries/static/js/main.a92eb907.chunk.js",
+  "main.js.map": "/pizza-bot-deliveries/static/js/main.a92eb907.chunk.js.map",
+  "runtime~main.js": "/pizza-bot-deliveries/static/js/runtime~main.a6d02adc.js",
+  "runtime~main.js.map": "/pizza-bot-deliveries/static/js/runtime~main.a6d02adc.js.map",
+  "static/js/2.ca947b24.chunk.js": "/pizza-bot-deliveries/static/js/2.ca947b24.chunk.js",
+  "static/js/2.ca947b24.chunk.js.map": "/pizza-bot-deliveries/static/js/2.ca947b24.chunk.js.map",
+  "index.html": "/pizza-bot-deliveries/index.html",
+  "precache-manifest.92c29fa7fa7e8fd232ce9d3bdda9fa0d.js": "/pizza-bot-deliveries/precache-manifest.92c29fa7fa7e8fd232ce9d3bdda9fa0d.js",
+  "service-worker.js": "/pizza-bot-deliveries/service-worker.js",
+  "static/css/main.9061d169.chunk.css.map": "/pizza-bot-deliveries/static/css/main.9061d169.chunk.css.map"
 }
