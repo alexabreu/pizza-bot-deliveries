@@ -4,6 +4,13 @@ Watch a little robot deliver pizzas to the the houses you place on a virtual map
 
 ![Pizza 🤖 Bot Deliveries Demo](demo.gif?raw=true "Pizza 🤖 Bot Deliveries Demo")
 
+## Install Dependencies
+
+In the project directory, you must run:
+
+### `npm install`
+
+
 ## Available Scripts
 
 In the project directory, you can run:
