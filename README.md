@@ -1,3 +1,7 @@
+# Pizza 🤖 Bot Deliveries
+
+Watch a little robot deliver pizzas to the the houses you place on a virtual map.
+
 ![Pizza 🤖 Bot Deliveries Demo](demo.gif?raw=true "Pizza 🤖 Bot Deliveries Demo")
 
 ## Available Scripts
